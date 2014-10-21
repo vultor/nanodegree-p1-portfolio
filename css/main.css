@@ -1,0 +1,41 @@
+body {
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 45px;
+}
+
+.title-logo {
+	margin-top: 10px;
+}
+
+hr {
+	border: none;
+	height: 4px;
+	color: #d3d3d3;
+	background-color: #d3d3d3;
+}
+
+.jumbotron p {
+	font-weight: 300;
+}
+
+@media screen and (min-width: 992px) {
+	.jumbotron h1, .jumbotron .h1 {
+		font-size: 60px;
+	}
+}
